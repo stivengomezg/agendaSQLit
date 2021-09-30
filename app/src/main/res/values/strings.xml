@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mi agenda</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_personas">Personas</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="informacion_exitosa">La información se ha almacendado exitosamente</string>
+    <string name="digite_documento">Digite documento</string>
+    <string name="digite_nombre">Digite los nombre</string>
+    <string name="ya_existe">La persona que está intentando registrar ya existe</string>
+</resources>
